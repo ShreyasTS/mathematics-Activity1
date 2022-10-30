@@ -12,5 +12,5 @@ To test each function, uncomment the required test funcitons
 ```
 TestReflexive()
 TestSymmetric()
-CheckTransitive()
+TestTransitive()
 ```
