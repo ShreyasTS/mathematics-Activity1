@@ -2,12 +2,13 @@
 To run the file simply enter the following in command prompt  
 
 ```
-python file_name.py 
+python activity-1.py 
 ```
 
-Enter the num
+Enter the number of elements, followed by single element in new lines.
+The program checks if the given list of pairs are Equivalence.
 
-To test each of the functions, uncomment the required test funcitons
+To test each function, uncomment the required test funcitons
 ```
 TestReflexive()
 TestSymmetric()
