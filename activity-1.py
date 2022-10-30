@@ -1,3 +1,8 @@
+#Submitted by
+#Shreyas Rao T S - JUPG22MCA17494 
+#Spurthi S - JUPG22MCA18520
+#Activity - 1
+
 print("\n### Program to find Equivalence relation for a set ###\n")
 l = []
 #Get user inputs
@@ -87,3 +92,7 @@ CheckSymmetric()
 #TestTransitive() # uncomment line for testing
 CheckTransitive()
 print("Result ordered pair: ", orderedPair)
+
+#Submitted by
+#Shreyas Rao T S - JUPG22MCA17494 
+#Spurthi S - JUPG22MCA18520  
